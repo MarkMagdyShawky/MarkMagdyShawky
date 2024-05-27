@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Mark Magdy Shawky </h2>
 
+<h3 align="center">I study computer science at Hurghada Faculty of Computers and Artificial Intelligence</h3>
+
 ###
 
 <div align="center">
